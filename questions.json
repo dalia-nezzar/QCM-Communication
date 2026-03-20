@@ -18,7 +18,7 @@
   {
     "id": 2,
     "type": "multiple_choice",
-    "question": "La réunion est décrite comme deux choses essentielles. Lesquelles ?",
+    "question": "La réunion est décrite comme deux (techniquement trois) choses essentielles. Lesquelles ?",
     "options": [
       "Un lieu privilégié de communication",
       "Un outil de divertissement",
@@ -182,8 +182,8 @@
     "options": [
       "Les présentations de chaque participant",
       "Les décisions arrêtées et le rôle de chacun dans le suivi",
-      "Les points positifs et négatifs de la réunion",
-      "L'ordre du jour de la prochaine réunion"
+      "Les points positifs et négatifs de la réunion pour améliorer les suivantes",
+      "L'ordre du jour de la prochaine réunion afin de prendre de l'avance"
     ],
     "correct": [
       "Les décisions arrêtées et le rôle de chacun dans le suivi"
@@ -194,10 +194,10 @@
     "type": "multiple_choice",
     "question": "À quoi sert la phase de bilan de la réunion (phase 5) ?",
     "options": [
-      "Prendre les dernières décisions",
+      "Prendre les dernières décisions et répartir les tâches",
       "Porter sur la forme et améliorer les réunions suivantes",
-      "Rédiger le compte-rendu officiel",
-      "Distribuer les actions à chaque participant"
+      "Rédiger le compte-rendu officiel de la réunion",
+      "Distribuer les actions à chaque participant pour la prochaine réunion"
     ],
     "correct": [
       "Porter sur la forme et améliorer les réunions suivantes"
@@ -248,10 +248,10 @@
     "type": "multiple_choice",
     "question": "Que caractérise l'actif négatif en réunion ?",
     "options": [
-      "Il est timide et inhibé",
-      "Il est motivé et prêt à innover",
+      "Il est timide, inhibé et refuse de s'exprimer sans raison apparente",
+      "Il est motivé et prêt à innover mais a du mal à s'adapter au groupe",
       "Il cherche à entraîner le groupe hors sujet et résiste au changement",
-      "Il parle trop car il a peur du silence"
+      "Il parle trop car il a peur du silence et veut tout contrôler"
     ],
     "correct": [
       "Il cherche à entraîner le groupe hors sujet et résiste au changement"
@@ -260,15 +260,15 @@
   {
     "id": 20,
     "type": "multiple_choice",
-    "question": "Pourquoi l'animateur doit-il se placer en position basse lorsqu'il gère plutôt que conduit une réunion ?",
+    "question": "Selon le cours, quand l'animateur adopte une posture de gestionnaire (plutôt que de conducteur), il se met volontairement en « position basse » vis-à-vis du groupe. Quel est l'avantage de cette posture ?",
     "options": [
-      "Pour paraître plus sympathique aux participants",
-      "Pour éviter les risques de symétrisation",
-      "Pour laisser le leader négatif prendre le contrôle",
-      "Pour respecter la hiérarchie des participants"
+      "Paraître plus sympathique aux participants",
+      "Éviter les risques de symétrisation avec le groupe",
+      "Permettre au leader négatif de s'exprimer librement",
+      "Respecter la hiérarchie des participants"
     ],
     "correct": [
-      "Pour éviter les risques de symétrisation"
+      "Éviter les risques de symétrisation avec le groupe"
     ]
   },
   {
@@ -332,10 +332,10 @@
     "type": "multiple_choice",
     "question": "Situation : Thomas est bavard. Quelle est la bonne attitude de l'animateur ?",
     "options": [
-      "Le laisser parler pour ne pas créer de conflit",
+      "Le laisser parler pour ne pas créer de conflit et espérer qu'il se rende compte de lui-même de son comportement",
       "Résumer ce qu'il dit, lui demander d'être bref et lui rappeler les contraintes horaires",
-      "Le désigner comme horloge pour qu'il prenne conscience du temps",
-      "L'ignorer et passer à autre chose"
+      "Le désigner comme horloge pour qu'il prenne conscience du temps qui passe",
+      "L'ignorer et passer à autre chose pour ne pas lui donner trop d'importance"
     ],
     "correct": [
       "Résumer ce qu'il dit, lui demander d'être bref et lui rappeler les contraintes horaires"
@@ -388,10 +388,10 @@
     "type": "multiple_choice",
     "question": "Situation : Inès est actif négatif. Comment l'animateur doit-il réagir lorsqu'elle exprime une opinion ?",
     "options": [
-      "La couper immédiatement pour ne pas perdre de temps",
+      "La couper immédiatement pour ne pas perdre de temps et lui rappeler les règles de la réunion",
       "Valoriser son opinion (\"C'est important ce que vous dites\") pour tenter de la faire basculer côté actifs positifs",
-      "La désigner comme scribe pour l'occuper",
-      "Demander aux autres participants de répondre à sa place"
+      "La désigner comme scribe pour l'occuper et la responsabiliser sans lui laisser trop de place",
+      "Demander aux autres participants de répondre à sa place pour ne pas lui donner trop d'importance"
     ],
     "correct": [
       "Valoriser son opinion (\"C'est important ce que vous dites\") pour tenter de la faire basculer côté actifs positifs"
@@ -416,10 +416,10 @@
     "type": "multiple_choice",
     "question": "Situation : Sofiane est leader positif. Quelle est la bonne attitude de l'animateur ?",
     "options": [
-      "Le recadrer sèchement pour réaffirmer son autorité",
+      "Le recadrer sèchement pour réaffirmer son autorité d'animateur (\"Je suis l'animateur, pas vous\")",
       "S'appuyer sur lui comme assistant tout en veillant à ce qu'il ne rende pas le groupe trop passif",
-      "L'ignorer pour ne pas lui donner trop d'importance",
-      "Le désigner animateur à sa place"
+      "L'ignorer pour ne pas lui donner trop d'importance et laisser les autres s'exprimer",
+      "Le désigner animateur à sa place pour le responsabiliser et lui faire comprendre les difficultés du rôle"
     ],
     "correct": [
       "S'appuyer sur lui comme assistant tout en veillant à ce qu'il ne rende pas le groupe trop passif"
@@ -444,10 +444,10 @@
     "type": "multiple_choice",
     "question": "Situation : Maxime est leader négatif. Quelle est la bonne attitude de l'animateur ?",
     "options": [
-      "Le disqualifier publiquement pour reprendre le contrôle",
+      "Le disqualifier publiquement pour reprendre le contrôle de la réunion",
       "Garder son rôle de régulateur, écouter Maxime et s'appuyer sur le groupe pour l'intégrer ou l'isoler",
-      "Lui céder la parole et laisser le groupe décider",
-      "L'exclure de la réunion si possible"
+      "Lui céder la parole et laisser le groupe se rendre compte de son incompétence",
+      "L'exclure de la réunion si possible pour ne pas perturber les autres participants"
     ],
     "correct": [
       "Garder son rôle de régulateur, écouter Maxime et s'appuyer sur le groupe pour l'intégrer ou l'isoler"
