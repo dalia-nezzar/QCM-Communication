@@ -138,7 +138,7 @@
   {
     "id": 11,
     "type": "free_answer",
-    "question": "Quels sont les 5 niveaux de besoins des participants selon le cours (du plus bas au plus élevé) ?",
+    "question": "Quels sont les 5 niveaux de besoins des participants selon le cours (du plus bas au plus élevé, sans le mot \"besoin\") ?",
     "correct": [
       "confort sécurité appartenance reconnaissance réalisation de soi",
       "confort securite appartenance reconnaissance realisation de soi"
@@ -451,6 +451,99 @@
     ],
     "correct": [
       "Garder son rôle de régulateur, écouter Maxime et s'appuyer sur le groupe pour l'intégrer ou l'isoler"
+    ]
+  },
+    {
+    "id": 34,
+    "type": "free_answer",
+    "question": "Citez les 6 profils de participants identifiés dans le cours.",
+    "correct": [
+      "actif positif actif négatif passif naturel passif volontaire leader positif leader négatif",
+      "actif positif actif negatif passif naturel passif volontaire leader positif leader negatif"
+    ],
+    "number_of_answers": 6
+  },
+  {
+    "id": 35,
+    "type": "free_answer",
+    "question": "En une phrase, quel est le moteur principal de l'actif négatif ?",
+    "correct": [
+      "la résistance au changement",
+      "resistance au changement",
+      "résistance au changement"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "free_answer",
+    "question": "L'actif négatif a une tactique préférée en réunion : laquelle ?",
+    "correct": [
+      "se taire puis jouer l'avocat du diable",
+      "se taire et jouer l'avocat du diable",
+      "avocat du diable",
+      "se taire puis s'appuyer sur les opinions des autres pour jouer l'avocat du diable"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "free_answer",
+    "question": "Quel est le point fort de l'actif positif pour le groupe ?",
+    "correct": [
+      "il permet au groupe de se réguler",
+      "ce sont les actifs positifs qui permettent au groupe de se réguler",
+      "il motive et fait avancer le groupe",
+      "il est motivé actif et prêt à innover"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "free_answer",
+    "question": "Qu'est-ce qui distingue le passif volontaire du passif naturel ?",
+    "correct": [
+      "le passif volontaire s'est mis volontairement en retrait c'est souvent un ancien actif positif frustré",
+      "il s'est volontairement mis en retrait",
+      "c'est un ancien actif positif frustré",
+      "le passif volontaire choisit de se mettre en retrait contrairement au passif naturel qui est timide"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "free_answer",
+    "question": "Comment se manifeste généralement le passif volontaire ?",
+    "correct": [
+      "par un caractère bougon",
+      "caractère bougon",
+      "il a un caractère bougon"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "free_answer",
+    "question": "Quel risque pose le leader positif pour le groupe, malgré ses bonnes intentions ?",
+    "correct": [
+      "il peut rendre le groupe trop passif",
+      "rendre le groupe trop passif",
+      "le groupe devient trop passif"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "free_answer",
+    "question": "Pourquoi le bavard n'est-il généralement pas susceptible quand on le coupe ?",
+    "correct": [
+      "parce qu'on lui a toujours dit qu'il parle trop",
+      "on lui a toujours dit qu'il parle trop",
+      "depuis toujours on lui dit qu'il parle trop"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "free_answer",
+    "question": "Quelle est la cause principale du comportement du bavard en réunion ?",
+    "correct": [
+      "il a peur du silence",
+      "la peur du silence",
+      "le stress et la peur du silence"
     ]
   }
 ]
