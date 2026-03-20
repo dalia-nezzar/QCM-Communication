@@ -453,13 +453,19 @@
       "Garder son rôle de régulateur, écouter Maxime et s'appuyer sur le groupe pour l'intégrer ou l'isoler"
     ]
   },
-    {
+      {
     "id": 34,
     "type": "free_answer",
     "question": "Citez les 6 profils de participants identifiés dans le cours.",
     "correct": [
-      "actif positif actif négatif passif naturel passif volontaire leader positif leader négatif",
-      "actif positif actif negatif passif naturel passif volontaire leader positif leader negatif"
+      "actif positif",
+      "actif negatif",
+      "actif négatif",
+      "passif naturel",
+      "passif volontaire",
+      "leader positif",
+      "leader negatif",
+      "leader négatif"
     ],
     "number_of_answers": 6
   },
@@ -489,10 +495,10 @@
     "type": "free_answer",
     "question": "Quel est le point fort de l'actif positif pour le groupe ?",
     "correct": [
-      "il permet au groupe de se réguler",
-      "ce sont les actifs positifs qui permettent au groupe de se réguler",
-      "il motive et fait avancer le groupe",
-      "il est motivé actif et prêt à innover"
+      "réguler le groupe",
+      "reguler le groupe",
+      "se réguler",
+      "se reguler"
     ]
   },
   {
@@ -500,10 +506,10 @@
     "type": "free_answer",
     "question": "Qu'est-ce qui distingue le passif volontaire du passif naturel ?",
     "correct": [
-      "le passif volontaire s'est mis volontairement en retrait c'est souvent un ancien actif positif frustré",
-      "il s'est volontairement mis en retrait",
-      "c'est un ancien actif positif frustré",
-      "le passif volontaire choisit de se mettre en retrait contrairement au passif naturel qui est timide"
+      "ancien actif positif frustré",
+      "ancien actif positif frustre",
+      "volontairement en retrait",
+      "mis en retrait volontairement"
     ]
   },
   {
@@ -521,9 +527,8 @@
     "type": "free_answer",
     "question": "Quel risque pose le leader positif pour le groupe, malgré ses bonnes intentions ?",
     "correct": [
-      "il peut rendre le groupe trop passif",
-      "rendre le groupe trop passif",
-      "le groupe devient trop passif"
+      "groupe trop passif",
+      "trop passif"
     ]
   },
   {
@@ -531,9 +536,9 @@
     "type": "free_answer",
     "question": "Pourquoi le bavard n'est-il généralement pas susceptible quand on le coupe ?",
     "correct": [
-      "parce qu'on lui a toujours dit qu'il parle trop",
-      "on lui a toujours dit qu'il parle trop",
-      "depuis toujours on lui dit qu'il parle trop"
+      "on lui a toujours dit qu il parle trop",
+      "il parle trop",
+      "parle trop"
     ]
   },
   {
