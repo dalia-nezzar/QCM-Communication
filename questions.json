@@ -1,0 +1,456 @@
+[
+  {
+    "id": 1,
+    "type": "multiple_choice",
+    "question": "Parmi les propositions suivantes, lesquelles sont des points-clés d'une réunion efficace ?",
+    "options": [
+      "Préparer",
+      "Improviser",
+      "Organiser",
+      "Évaluer"
+    ],
+    "correct": [
+      "Préparer",
+      "Organiser",
+      "Évaluer"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "multiple_choice",
+    "question": "La réunion est décrite comme deux choses essentielles. Lesquelles ?",
+    "options": [
+      "Un lieu privilégié de communication",
+      "Un outil de divertissement",
+      "Un outil privilégié de communication",
+      "Un fait social"
+    ],
+    "correct": [
+      "Un lieu privilégié de communication",
+      "Un outil privilégié de communication",
+      "Un fait social"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "free_answer",
+    "question": "Quel outil de structuration utilise-t-on pour traiter un sujet simple sous la forme d'un problème à résoudre (4 étapes : Situation, Problème, Résolution, Application) ?",
+    "correct": [
+      "grille SPRA",
+      "SPRA"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "free_answer",
+    "question": "Quel outil de structuration permet de déplacer le discours de l'analyse vers l'action pour un sujet complexe (5 étapes) ?",
+    "correct": [
+      "grille OPERA",
+      "OPERA"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "multiple_choice",
+    "question": "Dans quel ordre se déroulent les 5 phases d'une réunion ?",
+    "options": [
+      "Mise à l'aise → Élaboration du contrat → Échanges/Production → Synthèse générale → Bilan",
+      "Élaboration du contrat → Mise à l'aise → Échanges/Production → Bilan → Synthèse générale",
+      "Mise à l'aise → Échanges/Production → Élaboration du contrat → Synthèse générale → Bilan",
+      "Bilan → Mise à l'aise → Élaboration du contrat → Échanges/Production → Synthèse générale"
+    ],
+    "correct": [
+      "Mise à l'aise → Élaboration du contrat → Échanges/Production → Synthèse générale → Bilan"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "multiple_choice",
+    "question": "Quel est le rôle du scribe en réunion ?",
+    "options": [
+      "Gérer le temps de parole de chaque participant",
+      "Prendre les décisions finales à la place de l'animateur",
+      "Noter les points essentiels et aider à garder un fil conducteur",
+      "Animer les débats et recadrer le groupe"
+    ],
+    "correct": [
+      "Noter les points essentiels et aider à garder un fil conducteur"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "multiple_choice",
+    "question": "Quel est le rôle de l'horloge en réunion ?",
+    "options": [
+      "Rédiger le compte-rendu",
+      "Aider l'animateur à gérer le temps",
+      "Accueillir les participants",
+      "Prendre les décisions"
+    ],
+    "correct": [
+      "Aider l'animateur à gérer le temps"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "multiple_choice",
+    "question": "Parmi les profils suivants, lesquels sont des types de participants identifiés dans le cours ?",
+    "options": [
+      "L'actif positif",
+      "L'actif négatif",
+      "Le passif naturel",
+      "Le neutre bienveillant"
+    ],
+    "correct": [
+      "L'actif positif",
+      "L'actif négatif",
+      "Le passif naturel"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "multiple_choice",
+    "question": "Comment l'animateur doit-il gérer un passif naturel ?",
+    "options": [
+      "L'ignorer pour ne pas le mettre mal à l'aise",
+      "Le confronter directement pour le faire réagir",
+      "Lui poser des questions faciles et le revaloriser",
+      "Le désigner comme scribe pour l'impliquer de force"
+    ],
+    "correct": [
+      "Lui poser des questions faciles et le revaloriser"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "multiple_choice",
+    "question": "Quel syndrome caractérise le leader négatif selon le cours ?",
+    "options": [
+      "Le syndrome du mouton",
+      "Le syndrome Iznogoud",
+      "Le syndrome du sauveur",
+      "Le syndrome de l'imposteur"
+    ],
+    "correct": [
+      "Le syndrome Iznogoud"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "free_answer",
+    "question": "Quels sont les 5 niveaux de besoins des participants selon le cours (du plus bas au plus élevé) ?",
+    "correct": [
+      "confort sécurité appartenance reconnaissance réalisation de soi",
+      "confort securite appartenance reconnaissance realisation de soi"
+    ],
+    "number_of_answers": 5
+  },
+  {
+    "id": 12,
+    "type": "multiple_choice",
+    "question": "Quelles sont les trois fonctions principales de l'animateur selon le cours ?",
+    "options": [
+      "Faciliter le travail",
+      "Prendre toutes les décisions",
+      "Faciliter l'expression",
+      "Faciliter la participation et développer l'autonomie"
+    ],
+    "correct": [
+      "Faciliter le travail",
+      "Faciliter l'expression",
+      "Faciliter la participation et développer l'autonomie"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "multiple_choice",
+    "question": "Quel rôle de l'animateur correspond aux besoins de confort et sécurité des participants ?",
+    "options": [
+      "Piloter le déroulement de la réunion",
+      "Communiquer efficacement",
+      "Faciliter et réguler les échanges",
+      "Improviser selon le contexte"
+    ],
+    "correct": [
+      "Piloter le déroulement de la réunion"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "multiple_choice",
+    "question": "Que rappelle la phase de synthèse générale (phase 4) ?",
+    "options": [
+      "Les présentations de chaque participant",
+      "Les décisions arrêtées et le rôle de chacun dans le suivi",
+      "Les points positifs et négatifs de la réunion",
+      "L'ordre du jour de la prochaine réunion"
+    ],
+    "correct": [
+      "Les décisions arrêtées et le rôle de chacun dans le suivi"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "multiple_choice",
+    "question": "À quoi sert la phase de bilan de la réunion (phase 5) ?",
+    "options": [
+      "Prendre les dernières décisions",
+      "Porter sur la forme et améliorer les réunions suivantes",
+      "Rédiger le compte-rendu officiel",
+      "Distribuer les actions à chaque participant"
+    ],
+    "correct": [
+      "Porter sur la forme et améliorer les réunions suivantes"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "free_answer",
+    "question": "Quand peut-on considérer qu'une réunion est vraiment terminée ?",
+    "correct": [
+      "quand toutes les décisions prises sont appliquées",
+      "lorsque toutes les décisions sont appliquées",
+      "quand les décisions sont appliquées"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "multiple_choice",
+    "question": "Lors de la préparation d'une réunion, quels éléments doivent figurer dans l'invitation envoyée aux participants ?",
+    "options": [
+      "L'objet et les objectifs de la réunion",
+      "Le lieu, la date et la durée",
+      "Le nom du pilote et des intervenants",
+      "Les résultats des réunions précédentes"
+    ],
+    "correct": [
+      "L'objet et les objectifs de la réunion",
+      "Le lieu, la date et la durée",
+      "Le nom du pilote et des intervenants"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "multiple_choice",
+    "question": "Dans la grille OPERA, quelle étape correspond à l'analyse du problème (QQOQCCP, matrice SWOT...) ?",
+    "options": [
+      "O - Observations",
+      "P - Problème posé",
+      "E - Expérimentation",
+      "A - Actions"
+    ],
+    "correct": [
+      "P - Problème posé"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "multiple_choice",
+    "question": "Que caractérise l'actif négatif en réunion ?",
+    "options": [
+      "Il est timide et inhibé",
+      "Il est motivé et prêt à innover",
+      "Il cherche à entraîner le groupe hors sujet et résiste au changement",
+      "Il parle trop car il a peur du silence"
+    ],
+    "correct": [
+      "Il cherche à entraîner le groupe hors sujet et résiste au changement"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "multiple_choice",
+    "question": "Pourquoi l'animateur doit-il se placer en position basse lorsqu'il gère plutôt que conduit une réunion ?",
+    "options": [
+      "Pour paraître plus sympathique aux participants",
+      "Pour éviter les risques de symétrisation",
+      "Pour laisser le leader négatif prendre le contrôle",
+      "Pour respecter la hiérarchie des participants"
+    ],
+    "correct": [
+      "Pour éviter les risques de symétrisation"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "multiple_choice",
+    "question": "Situation : Karim participe à une réunion de projet. Il intervient régulièrement avec des idées constructives, pose des questions pertinentes et cherche à faire avancer le groupe. Quel est le profil de Karim ?",
+    "options": [
+      "Actif négatif",
+      "Passif naturel",
+      "Actif positif",
+      "Leader négatif"
+    ],
+    "correct": [
+      "Actif positif"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "multiple_choice",
+    "question": "Situation : Pendant toute la réunion, Nadia reste silencieuse, évite le regard de l'animateur et ne prend jamais la parole spontanément. Elle semble ailleurs et très susceptible. Quel est le profil de Nadia ?",
+    "options": [
+      "Passif volontaire",
+      "Passif naturel",
+      "Actif négatif",
+      "Leader positif"
+    ],
+    "correct": [
+      "Passif naturel"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "multiple_choice",
+    "question": "Situation : Nadia est passif naturel. Quelle est la bonne attitude de l'animateur face à elle ?",
+    "options": [
+      "La mettre en difficulté avec une question complexe pour la forcer à s'impliquer",
+      "L'ignorer et se concentrer sur les autres participants",
+      "Lui poser des questions simples et la valoriser devant le groupe",
+      "La désigner d'office comme scribe"
+    ],
+    "correct": [
+      "Lui poser des questions simples et la valoriser devant le groupe"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "multiple_choice",
+    "question": "Situation : Depuis le début de la réunion, Thomas n'arrête pas de parler. Il enchaîne les interventions, part dans tous les sens, mais ne semble pas susceptible quand on le coupe. Quel est le profil de Thomas ?",
+    "options": [
+      "Actif positif",
+      "Leader négatif",
+      "Le bavard",
+      "Passif volontaire"
+    ],
+    "correct": [
+      "Le bavard"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "multiple_choice",
+    "question": "Situation : Thomas est bavard. Quelle est la bonne attitude de l'animateur ?",
+    "options": [
+      "Le laisser parler pour ne pas créer de conflit",
+      "Résumer ce qu'il dit, lui demander d'être bref et lui rappeler les contraintes horaires",
+      "Le désigner comme horloge pour qu'il prenne conscience du temps",
+      "L'ignorer et passer à autre chose"
+    ],
+    "correct": [
+      "Résumer ce qu'il dit, lui demander d'être bref et lui rappeler les contraintes horaires"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "multiple_choice",
+    "question": "Situation : Lucas était autrefois très impliqué dans les réunions. Depuis quelques semaines, il s'est mis en retrait, répond par monosyllabes et affiche un air bougon. Quel est le profil de Lucas ?",
+    "options": [
+      "Passif naturel",
+      "Actif négatif",
+      "Passif volontaire",
+      "Leader négatif"
+    ],
+    "correct": [
+      "Passif volontaire"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "multiple_choice",
+    "question": "Situation : Lucas est passif volontaire. Quelle est la bonne attitude de l'animateur ?",
+    "options": [
+      "Le sanctionner pour son manque d'implication",
+      "Le faire s'exprimer sur sa frustration réelle et le ramener progressivement vers une attitude positive en le valorisant",
+      "Le traiter comme un passif naturel et lui poser des questions simples",
+      "L'ignorer jusqu'à ce qu'il reprenne de lui-même son rôle actif"
+    ],
+    "correct": [
+      "Le faire s'exprimer sur sa frustration réelle et le ramener progressivement vers une attitude positive en le valorisant"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "multiple_choice",
+    "question": "Situation : Inès se tait pendant toute la première partie de la réunion. Puis, juste avant la clôture, elle prend la parole et remet tout en question en disant : « Je vais me faire l'avocat du diable... ». Elle semble vouloir déstabiliser le groupe. Quel est le profil d'Inès ?",
+    "options": [
+      "Passif naturel",
+      "Actif négatif",
+      "Leader positif",
+      "Bavard"
+    ],
+    "correct": [
+      "Actif négatif"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "multiple_choice",
+    "question": "Situation : Inès est actif négatif. Comment l'animateur doit-il réagir lorsqu'elle exprime une opinion ?",
+    "options": [
+      "La couper immédiatement pour ne pas perdre de temps",
+      "Valoriser son opinion (\"C'est important ce que vous dites\") pour tenter de la faire basculer côté actifs positifs",
+      "La désigner comme scribe pour l'occuper",
+      "Demander aux autres participants de répondre à sa place"
+    ],
+    "correct": [
+      "Valoriser son opinion (\"C'est important ce que vous dites\") pour tenter de la faire basculer côté actifs positifs"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "multiple_choice",
+    "question": "Situation : Sofiane prend souvent la parole, s'adresse directement aux autres participants (pas à l'animateur), cherche à dynamiser le groupe mais commence à empiéter sur le rôle de l'animateur sans s'en rendre compte. Quel est le profil de Sofiane ?",
+    "options": [
+      "Leader négatif",
+      "Actif négatif",
+      "Leader positif",
+      "Bavard"
+    ],
+    "correct": [
+      "Leader positif"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "multiple_choice",
+    "question": "Situation : Sofiane est leader positif. Quelle est la bonne attitude de l'animateur ?",
+    "options": [
+      "Le recadrer sèchement pour réaffirmer son autorité",
+      "S'appuyer sur lui comme assistant tout en veillant à ce qu'il ne rende pas le groupe trop passif",
+      "L'ignorer pour ne pas lui donner trop d'importance",
+      "Le désigner animateur à sa place"
+    ],
+    "correct": [
+      "S'appuyer sur lui comme assistant tout en veillant à ce qu'il ne rende pas le groupe trop passif"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "multiple_choice",
+    "question": "Situation : Dès le début de la réunion, Maxime se place face à l'animateur, au milieu des participants, et passe son temps à critiquer les méthodes utilisées. Il voudrait clairement mener la réunion à la place de l'animateur. Quel est le profil de Maxime ?",
+    "options": [
+      "Actif négatif",
+      "Leader positif",
+      "Leader négatif",
+      "Passif volontaire"
+    ],
+    "correct": [
+      "Leader négatif"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "multiple_choice",
+    "question": "Situation : Maxime est leader négatif. Quelle est la bonne attitude de l'animateur ?",
+    "options": [
+      "Le disqualifier publiquement pour reprendre le contrôle",
+      "Garder son rôle de régulateur, écouter Maxime et s'appuyer sur le groupe pour l'intégrer ou l'isoler",
+      "Lui céder la parole et laisser le groupe décider",
+      "L'exclure de la réunion si possible"
+    ],
+    "correct": [
+      "Garder son rôle de régulateur, écouter Maxime et s'appuyer sur le groupe pour l'intégrer ou l'isoler"
+    ]
+  }
+]
