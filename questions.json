@@ -457,7 +457,7 @@
       {
     "id": 34,
     "type": "free_answer",
-    "question": "Citez les 6 profils de participants identifiés dans le cours.",
+    "question": "Citez les 7 profils de participants identifiés dans le cours.",
     "correct": [
       "actif positif",
       "actif negatif",
@@ -468,7 +468,7 @@
       "leader negatif",
       "leader négatif"
     ],
-    "number_of_answers": 6
+    "number_of_answers": 7
   },
   {
     "id": 35,
